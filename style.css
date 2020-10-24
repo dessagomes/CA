@@ -1,0 +1,48 @@
+.navbar {
+    background-color: white;
+}
+
+.pic{
+    background-color: #B1B1B1;
+    height: 400px;    
+}
+
+.container{
+    border: 5px solid #747474;
+    font-size: 25px;
+    padding: 100px;
+    text-align: center;
+}
+
+.table {
+    border-collapse: collapse;
+    padding: 100px;
+} 
+  
+.table th, td {
+    border: 1px solid black;
+}
+
+.table th {
+    background-color: #747474;
+    color: white;
+}
+
+.con{
+    background-color: #ECDEE4;
+    padding: 100px;
+}
+
+.footer{
+    background-color: #0A0708;
+    padding: 15px;
+}
+
+.bar1 p{
+    text-align: left;
+    color: white;
+}
+
+.space{
+    padding: 50px;
+}
